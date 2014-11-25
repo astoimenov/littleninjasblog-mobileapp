@@ -5,7 +5,7 @@
     <description>Блогът на малкия .NET нинджа със статии за програмиране и информационни технологии!</description>
     <author email="alexander.stoimenov@outlook.com" href="http://littleninja.softuni-friends.org/">Alexander Stoimenov</author>
 
-    <preference name="phonegap-version" value="3.3.0" />
+    <preference name="phonegap-version" value="3.6.3" />
     <feature name="http://api.phonegap.com/1.0/device" />
     
     <preference name="orientation" value="portrait" />
